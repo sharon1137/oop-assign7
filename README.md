@@ -1,4 +1,3 @@
-# oop-assign7
 # 2025 OOP Assignment #7
 迷宮
 ### Description
