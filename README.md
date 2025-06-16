@@ -14,5 +14,5 @@
 
 ＊白色的牆不會減少生命值，只會阻礙移動。
 
-![Flow Chart]('./images/oop-flow chart.png')
-![UML]('./images/oop-UML.png')
+![Flow Chart]('images/oop-flow chart.png')
+![UML]('images/oop-UML.png')
